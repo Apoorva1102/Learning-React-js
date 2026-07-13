@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+body{
+    background-color: burlywood;
+}
+
+h1{
+    margin-top: 40vmin;
+    align-items: center;
+    text-align: center;
+    font-size: large;
+    
+}
