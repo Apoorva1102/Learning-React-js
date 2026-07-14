@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+.App{
+    background-color: gray;
+    text-align: center;
+}
+
+.Login{
+    display: flex;
+    background-color: pink;
+}
